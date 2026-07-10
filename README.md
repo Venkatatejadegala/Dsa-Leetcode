@@ -26,6 +26,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0144-binary-tree-preorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -34,6 +35,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0144-binary-tree-preorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -52,4 +54,5 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0094-binary-tree-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
