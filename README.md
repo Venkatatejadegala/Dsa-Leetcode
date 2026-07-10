@@ -23,6 +23,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [2236-root-equals-sum-of-children](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -35,4 +36,5 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [2236-root-equals-sum-of-children](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
