@@ -19,4 +19,20 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0088-merge-sorted-array) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
