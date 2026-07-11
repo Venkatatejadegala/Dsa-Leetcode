@@ -9,6 +9,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,4 +78,16 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0145-binary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+## Hash Table
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
