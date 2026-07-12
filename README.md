@@ -84,6 +84,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -91,6 +92,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -107,6 +109,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Divide and Conquer
 |  |
