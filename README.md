@@ -11,6 +11,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0088-merge-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,13 +85,20 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
