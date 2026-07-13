@@ -14,6 +14,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0079-word-search](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -47,6 +48,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0102-binary-tree-level-order-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -130,6 +132,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0102-binary-tree-level-order-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -216,6 +219,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -263,6 +267,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
