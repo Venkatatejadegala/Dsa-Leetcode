@@ -62,6 +62,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2236-root-equals-sum-of-children](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -87,6 +88,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0854-k-similar-strings](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0854-k-similar-strings) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -173,6 +176,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0540-single-element-in-a-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## String
 |  |
@@ -192,6 +196,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Queue
 |  |
 | ------- |
@@ -245,8 +250,13 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
