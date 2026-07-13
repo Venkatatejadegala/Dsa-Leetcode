@@ -62,6 +62,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0662-maximum-width-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -91,6 +92,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -110,6 +112,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0662-maximum-width-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0854-k-similar-strings](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0854-k-similar-strings) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -136,6 +139,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0662-maximum-width-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -157,6 +161,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0438-find-all-anagrams-in-a-string](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0854-k-similar-strings](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0854-k-similar-strings) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
