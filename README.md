@@ -72,6 +72,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0104-maximum-depth-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0854-k-similar-strings](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0854-k-similar-strings) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
@@ -100,6 +101,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0003-longest-substring-without-repeating-characters](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0854-k-similar-strings](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0854-k-similar-strings) |
 | [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -138,6 +140,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0079-word-search](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0854-k-similar-strings](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0854-k-similar-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
