@@ -58,6 +58,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0145-binary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -93,6 +94,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0145-binary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -119,6 +121,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0111-minimum-depth-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -147,6 +150,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0145-binary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -218,6 +222,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0079-word-search) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0854-k-similar-strings](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0854-k-similar-strings) |
@@ -290,6 +295,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Data Stream
