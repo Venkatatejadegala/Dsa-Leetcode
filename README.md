@@ -20,6 +20,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0918-maximum-sum-circular-subarray](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
@@ -32,6 +33,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0088-merge-sorted-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Tree
 |  |
 | ------- |
@@ -98,6 +100,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0438-find-all-anagrams-in-a-string](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
