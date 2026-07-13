@@ -21,6 +21,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0930-binary-subarrays-with-sum](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -160,4 +162,8 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0079-word-search) |
+## Counting
+|  |
+| ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
