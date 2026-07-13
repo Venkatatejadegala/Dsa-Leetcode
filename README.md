@@ -48,6 +48,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0144-binary-tree-preorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -67,6 +68,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0144-binary-tree-preorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -97,6 +99,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0144-binary-tree-preorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0543-diameter-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
