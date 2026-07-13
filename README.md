@@ -10,6 +10,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0027-remove-element](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -47,6 +48,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -124,6 +126,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -145,8 +148,13 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0079-word-search) |
 ## Enumeration
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1291-sequential-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
