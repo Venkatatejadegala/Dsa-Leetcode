@@ -43,6 +43,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -79,6 +80,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | ------- |
 | [0079-word-search](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -127,6 +129,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -267,6 +270,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
