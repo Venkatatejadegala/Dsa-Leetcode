@@ -24,6 +24,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0992-subarrays-with-k-different-integers](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
@@ -152,6 +153,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0992-subarrays-with-k-different-integers](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sliding Window
 |  |
@@ -226,6 +228,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -263,4 +266,12 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Math
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
+## Number Theory
+|  |
+| ------- |
+| [2183-count-array-pairs-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 <!---LeetCode Topics End-->
