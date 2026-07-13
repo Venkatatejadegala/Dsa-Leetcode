@@ -13,7 +13,6 @@ class Solution {
             for (int i = 0; i < size; i++) {
                 TreeNode node = q.poll();
                 level.add(node.val);
-
                 if (node.left != null) {
                     q.offer(node.left);
                 }
