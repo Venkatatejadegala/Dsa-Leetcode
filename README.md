@@ -64,6 +64,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2236-root-equals-sum-of-children](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2236-root-equals-sum-of-children) |
@@ -91,6 +92,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Breadth-First Search
@@ -107,6 +109,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0854-k-similar-strings](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0854-k-similar-strings) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
