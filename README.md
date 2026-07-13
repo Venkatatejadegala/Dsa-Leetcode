@@ -141,4 +141,8 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
