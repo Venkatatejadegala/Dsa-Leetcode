@@ -15,6 +15,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0088-merge-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -93,6 +94,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0144-binary-tree-preorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0437-path-sum-iii) |
@@ -122,6 +124,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0111-minimum-depth-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -254,6 +257,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 ## Enumeration
 |  |
 | ------- |
@@ -323,6 +327,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
