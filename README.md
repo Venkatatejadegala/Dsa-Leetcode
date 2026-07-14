@@ -28,6 +28,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Two Pointers
 |  |
 | ------- |
@@ -244,6 +245,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0918-maximum-sum-circular-subarray](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0968-binary-tree-cameras](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Queue
 |  |
 | ------- |
@@ -316,10 +318,12 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
 | ------- |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Linked List
 |  |
 | ------- |
