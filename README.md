@@ -12,6 +12,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0033-search-in-rotated-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -35,6 +36,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
