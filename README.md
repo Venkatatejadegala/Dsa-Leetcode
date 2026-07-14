@@ -18,6 +18,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0200-number-of-islands](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -106,6 +107,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0968-binary-tree-cameras) |
@@ -129,6 +131,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0695-max-area-of-island) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0854-k-similar-strings](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0854-k-similar-strings) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -260,6 +263,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0074-search-a-2d-matrix](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0695-max-area-of-island) |
 ## Enumeration
 |  |
 | ------- |
@@ -332,6 +336,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
