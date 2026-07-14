@@ -111,6 +111,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [1376-time-needed-to-inform-all-employees](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [1376-time-needed-to-inform-all-employees](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -318,4 +320,12 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
