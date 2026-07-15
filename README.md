@@ -328,11 +328,13 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | ------- |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
