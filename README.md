@@ -16,6 +16,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0088-merge-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -42,6 +43,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Tree
@@ -192,6 +194,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0003-longest-substring-without-repeating-characters](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0133-clone-graph](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0854-k-similar-strings](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0854-k-similar-strings) |
@@ -246,6 +249,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0004-median-of-two-sorted-arrays](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -280,6 +284,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2183-count-array-pairs-divisible-by-k](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/2183-count-array-pairs-divisible-by-k) |
