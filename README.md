@@ -16,6 +16,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0088-merge-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0200-number-of-islands) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -254,6 +255,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0968-binary-tree-cameras](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0968-binary-tree-cameras) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1483-kth-ancestor-of-a-tree-node) |
