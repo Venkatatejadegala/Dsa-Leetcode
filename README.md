@@ -189,6 +189,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0145-binary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -244,6 +245,7 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | [0438-find-all-anagrams-in-a-string](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0854-k-similar-strings](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0854-k-similar-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -357,4 +359,12 @@ Collection of my LeetCode solutions in Java with clean code, explanations, and c
 | ------- |
 | [0133-clone-graph](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/0133-clone-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Venkatatejadegala/Dsa-Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
